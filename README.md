@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Manish kumar</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Java Full Stack Web developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manishs72&label=Profile%20views&color=0e75b6&style=flat" alt="manishs72" /> </p>
 
@@ -9,11 +9,11 @@
     <td>
 
       
-- 🌱 I’m currently learning **MongoDB**
+- 🌱 I’m currently learning **Java Full Stack Web Developer **
 
 - 👨‍💻 All of my projects are available at [https://rajnishrv.github.io/Portfolio/](https://rajnishrv.github.io/Portfolio/)
 
-- 📫 How to reach me **rajnishkumar550443@gmail.com**</td>
+- 📫 How to reach me **mkk725050@gmail.com**</td>
   </tr>
  </table>
 
