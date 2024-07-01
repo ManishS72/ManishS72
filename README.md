@@ -11,7 +11,7 @@
       
 - 🌱 I’m currently learning **Java Full Stack Web Developer **
 
-- 👨‍💻 All of my projects are available at [https://rajnishrv.github.io/Portfolio/](https://rajnishrv.github.io/Portfolio/)
+- 👨‍💻 All of my projects are available at
 
 - 📫 How to reach me **mkk725050@gmail.com**</td>
   </tr>
