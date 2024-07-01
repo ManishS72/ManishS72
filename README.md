@@ -3,11 +3,19 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manishs72&label=Profile%20views&color=0e75b6&style=flat" alt="manishs72" /> </p>
 
-- 🔭 I’m currently working on **Exam System**
+<table>
+  <tr>
+    <td><p align="right"> <img src="https://moldech.com/wp-content/uploads/2022/07/96143-developer.gif" alt="rajnishrv" width="325" height="250"  /> </p></td>
+    <td>
 
-- 🌱 I’m currently learning **Java Full Stack Web Developer**
+      
+- 🌱 I’m currently learning **MongoDB**
 
-- 📫 How to reach me **mkk725050@gmail.com**
+- 👨‍💻 All of my projects are available at [https://rajnishrv.github.io/Portfolio/](https://rajnishrv.github.io/Portfolio/)
+
+- 📫 How to reach me **rajnishkumar550443@gmail.com**</td>
+  </tr>
+ </table>
 
 - ⚡ Fun fact **I am funny**
 
