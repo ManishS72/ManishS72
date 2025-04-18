@@ -9,7 +9,7 @@
     <td>
 
       
-- 🌱 I’m currently learning **Java Full Stack Web Developer **
+- 🌱 I’m currently learning **Java Full Stack Developer **
 
 - 👨‍💻 All of my projects are available at
 
