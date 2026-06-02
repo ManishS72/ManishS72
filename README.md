@@ -29,23 +29,18 @@ Flutter Developer | Dart | Firebase | REST APIs | Cross-Platform Mobile App Deve
 <tr>
 <td width="60%">
 
-🌱 Currently learning **Flutter, Firebase, Riverpod & REST APIs**
-
-📱 Building beautiful and responsive mobile applications
-
-💡 Interested in **Clean Architecture, UI/UX & Mobile Development**
-
-🚀 Passionate about creating cross-platform apps with Flutter
-
-🎯 Goal: Become a Professional Flutter Developer
-
-📫 Reach me at: **mkk725050@gmail.com**
+- 🌱 Currently learning **Flutter, Firebase, Riverpod & REST APIs**
+- 📱 Building Cross-Platform Mobile Applications
+- 🎯 Goal: Become a Professional Flutter Developer
+- 💡 Interested in Clean Architecture & UI/UX
+- 🚀 Passionate about Mobile App Development
+- 📫 Reach me at **mkk725050@gmail.com**
 
 </td>
 
 <td width="40%">
 
-<img src="https://user-images.githubusercontent.com/74038190/212744275-c56a72c2-1f2b-4c44-8f4e-6f1d1f3d6f61.gif" width="320"/>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
 
 </td>
 </tr>
