@@ -48,6 +48,13 @@ Flutter Developer | Dart | Firebase | REST APIs | Cross-Platform Mobile App Deve
 
 ---
 
+<p align="left">
+<img src="https://img.shields.io/badge/Flutter-Developer-blue?style=for-the-badge&logo=flutter"/>
+<img src="https://img.shields.io/badge/Dart-Programming-0175C2?style=for-the-badge&logo=dart"/>
+<img src="https://img.shields.io/badge/Firebase-Backend-orange?style=for-the-badge&logo=firebase"/>
+<img src="https://img.shields.io/badge/Open%20Source-Enthusiast-success?style=for-the-badge"/>
+</p>
+
 # 🌐 Connect With Me
 
 <p align="center">
