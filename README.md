@@ -98,17 +98,16 @@ Flutter Developer | Dart | Firebase | REST APIs | Cross-Platform Mobile App Deve
 ### 📊 GitHub Statistics
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=manishs72&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ManishS72&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manishs72&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManishS72&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=manishs72&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ManishS72&theme=tokyonight" alt="GitHub Streak" />
 </p>
-
 ---
 
 ### 💬 Quote
