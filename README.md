@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Manish kumar</h1>
-<h3 align="center">A passionate Node.Js Backend Developer | JavaScript | ReactJS Developer</h3>
+<h3 align="center">A passionate Flutter Developer | Dart | Firebase | REST APIs | Cross-Platform Mobile App Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manishs72&label=Profile%20views&color=0e75b6&style=flat" alt="manishs72" /> </p>
 
@@ -9,7 +9,7 @@
     <td>
 
       
-- 🌱 I’m currently learning **Java Full Stack Developer **
+- 🌱 I’m currently learning **Flutter Developement & Firebase **
 
 - 👨‍💻 All of my projects are available at
 
@@ -17,7 +17,7 @@
   </tr>
  </table>
 
-- ⚡ Fun fact **I am funny**
+- ⚡ Fun fact ** Passionate about Mobile App Development and Continuous Learning**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
