@@ -78,22 +78,18 @@ Flutter Developer | Dart | Firebase | REST APIs | JavaScript | Node.JS | Cross-P
 ---
 
 # 📊 GitHub Statistics
-
 <p align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ManishS72&show_icons=true&theme=tokyonight"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManishS72&layout=compact&theme=tokyonight"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ManishS72&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManishS72&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-<img width="70%" src="https://streak-stats.demolab.com?user=ManishS72&theme=tokyonight"/>
+  <img src="https://streak-stats.demolab.com?user=ManishS72&theme=tokyonight&hide_border=true"/>
 </p>
 
----
-
-# 🏆 GitHub Trophies
-
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=ManishS72&theme=tokyonight&margin-w=10"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=ManishS72&theme=tokyonight&no-frame=true&row=1&column=6"/>
 </p>
 
 ---
