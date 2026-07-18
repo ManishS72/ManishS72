@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-Flutter Developer | Dart | Firebase | REST APIs | Cross-Platform Mobile App Developer
+Flutter Developer | Dart | Firebase | REST APIs | JavaScript | Node.JS | Cross-Platform Mobile App Developer
 </h3>
 
 <p align="center">
